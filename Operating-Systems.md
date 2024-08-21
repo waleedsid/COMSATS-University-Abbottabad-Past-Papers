@@ -8,6 +8,7 @@ Operating Systems focuses on managing computer hardware and software resources. 
 
 ### [Upload Past Papers Here]
 
+![IMG_0781](https://github.com/user-attachments/assets/0dd2b8c0-f837-4672-8201-07ef49166b07)
 
 
 ## Resources
