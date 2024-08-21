@@ -7,6 +7,7 @@ Digital Communication and Computer Networks cover the principles of digital comm
 ## Past Papers
 
 ### [Upload Past Papers Here]
+![IMG_3941](https://github.com/user-attachments/assets/5268f494-1779-44f1-ac96-b0d626f97ff6)
 
 
 ## Resources
