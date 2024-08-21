@@ -73,5 +73,5 @@ We’re stronger together! Let’s build a comprehensive library of past papers 
 Thanks to all the students who have contributed to this repository. Your efforts are making a difference!
 
 ---
-
+#COMSATS #comsats-abbottabad #pastpapers
 © 2024 COMSATS University Past Papers Initiative
