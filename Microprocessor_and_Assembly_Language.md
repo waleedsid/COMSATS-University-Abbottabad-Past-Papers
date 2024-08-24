@@ -9,6 +9,8 @@ Microprocessor and Assembly Language covers the design and programming of microp
 ### [Upload Past Papers Here]
 ### Wait it's loading...
 ![02f3db00-e16c-4ec5-9956-a583101db74c](https://github.com/user-attachments/assets/0681b2ff-6250-4433-aaa9-8310d029e947)
+![28f250a1-72e3-4127-b9c0-d1b76b795cab](https://github.com/user-attachments/assets/8d164391-59d5-47ad-ae86-3b5cfc08ecc0)
+![466eefff-f8e1-4dd4-92ee-5c11bba14a6b](https://github.com/user-attachments/assets/bc614d3e-655b-46db-b8b8-204fe6a57fe0)
 
 ## Resources
 
