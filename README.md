@@ -1,6 +1,19 @@
+
+<h2 align="center">
+  ⭐️ Make Sure to Star and Fork the Repository! ⭐️
+</h2>
+<p align="center">
+
+  <a href="https://github.com/waleedsid/Github-profile-card">
+    <img src="https://img.shields.io/badge/Repository%20Views-1.7k-blue" alt="Profile Views Badge" style="border-radius: 5px;"/>
+  </a>
+</p>
+
 # 🎓 COMSATS University Past Papers Main Rep
 
 Welcome to the **COMSATS University Past Papers Repository**! This repository is dedicated to collecting and organizing past papers for various subjects at COMSATS University, Islamabad, Abbottabad Campus.
+
+
 
 ## 🌟 Purpose
 
