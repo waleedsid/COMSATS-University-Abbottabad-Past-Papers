@@ -12,6 +12,7 @@ Machine Learning (ML) involves algorithms and statistical models that enable com
 
 ![9729b7c8-baed-4907-91eb-bc2c7fec4fca](https://github.com/user-attachments/assets/cb87b6f6-c9ab-4732-bb12-6dce0d1a7a22)
 ![517274f6-9734-4407-afba-050ececc8a55](https://github.com/user-attachments/assets/895342a6-4e1b-49de-ab34-7cafbd6fe8d2)
+![53f05f1a-d5ad-4fcc-9471-35e62cffc21d](https://github.com/user-attachments/assets/63fce438-741c-4c2c-bf57-5351511741ad)
 
 
 ## Resources
