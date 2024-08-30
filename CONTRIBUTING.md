@@ -63,6 +63,6 @@ Once you submit a pull request:
 
 If you have any questions or need assistance, feel free to contact the repository maintainers:
 
-- [Your Name](mailto:waleed.siddique.112@gmail.com)
+- [Email](mailto:waleed.siddique.112@gmail.com)
 
 We appreciate your contributions and thank you for helping to improve the COMSATS Past Papers Repository!
