@@ -11,7 +11,8 @@
 
 # 🎓 COMSATS University Past Papers Main Rep
 
-Welcome to the **COMSATS University Past Papers Repository**! This repository is dedicated to collecting and organizing past papers for various subjects at COMSATS University, Islamabad, Abbottabad Campus.
+Welcome to the **COMSATS University Past Papers Repository**! This repository is dedicated to collecting and organizing past papers for various subjects at COMSATS University, Islamabad, Abbottabad Campus (Dhamtore).
+Currently it contains Exam for Computer Science/Software Engineering only, If you want me to create Rep for other departments, do let me know!
 
 
 
@@ -25,23 +26,23 @@ This repository aims to help students access past papers to better prepare for t
 
 Currently, we have past papers for the following subjects:
 
-- **[Data Structures and Algorithms (DSA)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/DSA.md)**
-- **[Database Systems](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Database_Systems.md)**
-- **[Numerical Computing](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Numerical_Computing.md)**
-- **[Software Project Management (SPM)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/SPM.md)**
-- **[Visual Programming (VP)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Visual_Programming.md)**
-- **[Design and Analysis of Algorithms (DAA)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/DAA.md)**
-- **[Compiler Construction](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Compiler_Construction.md)**
-- **[Operating Systems](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Operating_Systems.md)**
-- **[Theory of Automata](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Theory_of_Automata.md)**
-- **[Artificial Intelligence (AI)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/AI.md)**
-- **[Human-Computer Interaction (HCI)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/HCI.md)**
-- **[Arabic](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Arabic.md)**
-- **[Digital Communication and Computer Networks (DCCN)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/DCCN.md)**
-- **[Microprocessor and Assembly Language](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Microprocessor_and_Assembly_Language.md)**
-- **[Machine Learning (ML)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/ML.md)**
-- **[Parallel and Distributed Computing (PDC)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/PDC.md)**
-- **[Mobile Application Development (MAD)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/MAD.md)**
+- **[Data Structures and Algorithms (DSA)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/DSA.md)**
+- **[Database Systems](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Database_Systems.md)**
+- **[Numerical Computing](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Numerical_Computing.md)**
+- **[Software Project Management (SPM)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/SPM.md)**
+- **[Visual Programming (VP)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Visual_Programming.md)**
+- **[Design and Analysis of Algorithms (DAA)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/DAA.md)**
+- **[Compiler Construction](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Compiler_Construction.md)**
+- **[Operating Systems](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Operating_Systems.md)**
+- **[Theory of Automata](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Theory_of_Automata.md)**
+- **[Artificial Intelligence (AI)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/AI.md)**
+- **[Human-Computer Interaction (HCI)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/HCI.md)**
+- **[Arabic](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Arabic.md)**
+- **[Digital Communication and Computer Networks (DCCN)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/DCCN.md)**
+- **[Microprocessor and Assembly Language](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Microprocessor_and_Assembly_Language.md)**
+- **[Machine Learning (ML)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/ML.md)**
+- **[Parallel and Distributed Computing (PDC)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/PDC.md)**
+- **[Mobile Application Development (MAD)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/MAD.md)**
 
 ## 🌈 How to Contribute
 
@@ -50,6 +51,8 @@ Currently, we have past papers for the following subjects:
 3. **Create a Pull Request:** Once you've uploaded your papers, create a pull request with a brief description of your contribution.
 4. **Review Process:** Your contribution will be reviewed, and if the papers are correct, they will be merged into the main repository.
 
+## Issue
+Open new issue if you get any link Broken or anything else.
 
 ## 🎉 Let's Collaborate!
 
