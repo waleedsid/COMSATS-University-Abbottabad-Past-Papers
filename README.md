@@ -40,7 +40,7 @@ Currently, we have past papers for the following subjects:
 - **[Digital Communication and Computer Networks (DCCN)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/DCCN)**
 - **[Microprocessor and Assembly Language](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/Microprocessor%20and%20Assembly%20Language)**
 - **[Machine Learning (ML)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/tree/main/Past%20Papers/Machine%20Learning)**
-- **[Parallel and Distributed Computing (PDC)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/PDC**
+- **[Parallel and Distributed Computing (PDC)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/blob/main/Past%20Papers/PDC)**
 - **[Mobile Application Development (MAD)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/tree/main/Past%20Papers/Mobile%20Application%20Development)**
 - **[Human Resource Managment(HRM)](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/tree/main/Past%20Papers/HRM)**
 - **[Inrto duction to Psychology](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers/tree/main/Past%20Papers/Introduction%20to%20Psychology)**
