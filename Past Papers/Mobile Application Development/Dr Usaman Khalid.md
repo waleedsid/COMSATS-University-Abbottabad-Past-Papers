@@ -1,13 +1,4 @@
-# Mobile Application Development (MAD)
 
-## Overview
-
-Mobile Application Development (MAD) focuses on designing and building applications for mobile devices. It includes development for platforms like Android and iOS, and covers topics such as user interface design and mobile app architecture.
-
-## Past Papers
-
-### [Upload Past Papers Here]
-### Wait it's loading...
 ![d53877be-9610-4359-96fc-b12baae601c5](https://github.com/user-attachments/assets/b7b967db-46e2-4790-8c8c-cf4ddbc78fc4)
 
 ![23ab8f79-7ff4-4a2c-a346-62b465327351](https://github.com/user-attachments/assets/3ce28759-b2e7-4943-a14d-8d960c1970d8)
